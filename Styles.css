@@ -1,0 +1,55 @@
+body{
+  margin: 0px;
+}
+.tab{
+  height: 80px;
+  width: 100%;
+  background-color: #1544c0;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+.DA{
+  height: 40px;
+  padding: 20px;
+}
+.top{
+  background-color: #add8e6;
+  height: 600px;
+  margin-top: 0;
+  text-align: center;
+}
+.top-cloud{
+  position: absolute;
+  right: 25%;
+}
+h1{
+  margin: 0;
+  padding-top: 90px;
+  font-family: Ginger, sans-serif;
+  src: url(Ginger.woff);
+  font-size: 100px;
+}
+p{
+  margin: 0;
+  font-family: helvetica, sans-serif;
+  font-size: 20px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 25%;
+}
+.mountain{
+  width: 50%;
+}
+
+.middle{
+  height: 600px;
+  background-color: #1544c0;
+  text-align: center;
+}
+.bottom{
+  height: 600px;
+  background-color: #add8e6;
+  text-align: center;
+}
